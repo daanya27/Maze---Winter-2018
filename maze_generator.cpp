@@ -3,7 +3,7 @@
 
 // using namespace std;
 
-
+// TO INCLUDE IN PROVIDED GUI
 ICS46_DYNAMIC_FACTORY_REGISTER(MazeGenerator,
                                DaanyaMGA,
                                "Daanya's Maze Generator (Required)");
