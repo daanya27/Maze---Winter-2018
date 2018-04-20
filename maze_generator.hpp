@@ -9,7 +9,7 @@
 using namespace std;
 
 
-class DaanyaMGA: public MazeGenerator
+class DaanyaMGA: public MazeGenerator  // MazeGenerator base class provided. DaanyaMGA creates maze gen. algorithm.
 {
 public: 
   /** Default constructor for maze generator
