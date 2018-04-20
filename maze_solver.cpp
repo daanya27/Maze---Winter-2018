@@ -1,14 +1,9 @@
 // DaanyaMSA = Daanya's Maze Solver Algorithm
 
-# include <ics46/factory/DynamicFactory.hpp>
 # include "DaanyaMSA.hpp"
 
 using namespace std;
 
-# TO INCLUDE IN PROVIDED GUI
-ICS46_DYNAMIC_FACTORY_REGISTER(MazeSolver,
-                               DaanyaMSA,
-                               "Daanya's Maze Solver (Required)");
 
 DaanyaMSA::DaanyaMSA()
 {
