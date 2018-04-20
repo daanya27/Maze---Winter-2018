@@ -1,14 +1,9 @@
 // DaanyaMGA = Daanya's Maze Generator Algorithm
 
-# include <ics46/factory/DynamicFactory.hpp>
 # include "DaanyaMGA.hpp"
 
 // using namespace std;
 
-// TO INCLUDE IN PROVIDED GUI
-ICS46_DYNAMIC_FACTORY_REGISTER(MazeGenerator,
-                               DaanyaMGA,
-                               "Daanya's Maze Generator (Required)");
 
 DaanyaMGA::DaanyaMGA()
 {
