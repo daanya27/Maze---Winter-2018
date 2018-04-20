@@ -1,3 +1,5 @@
+// DaanyaMGA = Daanya's Maze Generator Algorithm
+
 # ifndef DAANYAMGA_HPP
 # define DAANYAMGA_HPP
 
