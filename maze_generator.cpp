@@ -1,3 +1,5 @@
+// DaanyaMGA = Daanya's Maze Generator Algorithm
+
 # include <ics46/factory/DynamicFactory.hpp>
 # include "DaanyaMGA.hpp"
 
